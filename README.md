@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kyaw Phyo Thar</h1>
 <h3 align="center">Junior Web Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kyawphyothar&label=Profile%20views&color=0e75b6&style=flat" alt="kyawphyothar" /> </p>
-
 -✨ A passionate and curious junior web developer on an exciting journey to master the art of creating captivating web experiences.🌐
 
 -🌱 Learning is my superpower, and every project I undertake is an opportunity for growth. I'm enthusiastic about collaborating with fellow developers, sharing ideas, and contributing to open-source projects that make a positive impact.Now I'm currently learning front-end development tools and python programming language.
